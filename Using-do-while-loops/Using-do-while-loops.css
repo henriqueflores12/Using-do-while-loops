@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+#box1 {
+  border: 5px double yellow;
+  width: 95%;
+  height: 50%;
+  color: white;
+  display: grid;
+  justify-content: center;
+  margin-top: 300px;
+  margin-left: 40px;
+}
+#answer:hover {
+  font-size: 400px;
+}
+#answer:hover {
+  color: red;
+}
